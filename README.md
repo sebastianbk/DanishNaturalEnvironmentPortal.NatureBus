@@ -11,7 +11,7 @@ The game uses the Web Gamepad API written by Ted Mielczarek and others. You can 
 
 Right now only Firefox and Google Chrome implement the Gamepad API. I have only built the game with support for Firefox 29.0 or higher. It can be adapted to work with Chrome too but I haven't done that yet.
 
-Also, the Bing Maps AJAX Control 7.0 ISDK is being used to generate the bird's eye map, which serves as the underlay for the game.
+Also, the Bing Maps AJAX Control 7.0 ISDK is being used to generate the bird's eye map, which serves as the underlay for the game. You can check that out here: http://www.bingmapsportal.com/isdk/ajaxv7
 
 Screenshots
 ===========
